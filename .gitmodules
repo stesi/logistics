@@ -2,3 +2,8 @@
 	path = OCA/field-service
 	url = git@github.com:OCA/field-service.git
 	branch = 14.0
+
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 14.0
